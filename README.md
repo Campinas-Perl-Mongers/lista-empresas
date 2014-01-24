@@ -1,4 +1,3 @@
-
 Lista de empresas que utilizam Perl
 ===================================
 
@@ -32,6 +31,13 @@ Serviço que disponibiliza sistema de gerenciamento online de toda Legislação 
 O sistema é destinado a facilitar o gerenciamento e a pesquisa das Leis dos estados e municípios brasileiros, aos governadores, deputados, prefeitos, vereadores, juristas, pesquisadores, administradores públicos e demais interessados nas legislações estadual e municipal facilitando o acesso de todos ao conteúdo.
 
 https://www.leismunicipais.com.br
+
+
+STOCKSISTEMAS
+-------------
+A STOCKSISTEMAS é uma empresa focada no desenvolvimento de aplicações e sistemas em plataforma web.
+
+http://www.stocksistemas.com.br
 
 
 Urby
